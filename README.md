@@ -1,2 +1,0 @@
-# PostmanTestProjects
-Postman Test Projects
