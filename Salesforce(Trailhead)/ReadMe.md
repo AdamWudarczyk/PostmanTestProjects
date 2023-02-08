@@ -12,4 +12,5 @@ https://trailhead.salesforce.com/content/learn/projects/quick-start-connect-post
 6. Send a request to see if it's working (for me it's working when I send it throught POSTMAN opened in the browser and it's not working in desktop app.
 7. After ensuring that everything is working, go to tab 'Tests' and paste Test Casees from 'PostmanTests' file to that tab.
 8. Send request and observe results in 'Test Results' tab.
+
 NOTE!!! Some of the test casees are intentionaly written to be FAILED, to show different results.
